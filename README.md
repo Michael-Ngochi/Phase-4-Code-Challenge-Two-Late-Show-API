@@ -8,7 +8,7 @@ A Flask REST API to manage talk show guests, episodes, and appearances — compl
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Michael-Ngochi/Phase-4-Code-Challenge-Two-Late-Show-API.git
 cd Phase-4-Code-Challenge-Two-Late-Show-API
 ```
 
